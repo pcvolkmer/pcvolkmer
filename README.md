@@ -17,6 +17,12 @@ Getestet wurde jeweils für die [hier beschriebenen synthetischen JSON Daten](ht
 
 Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLab/dnpm-dip-api-gateway)
 
+#### Genomrechenzentrum-Metadaten (MV §64e) DTOs
+
+| Language/Platform |
+| -------- |
+| [Java](https://github.com/pcvolkmer/mv64e-grz-dto-java) (JDK 11 based, uses `java.util.Date`) |
+
 ### Alle Projekte
 
 Eine Übersicht über alle Projekte gibt es hier: https://github.com/pcvolkmer?tab=repositories
