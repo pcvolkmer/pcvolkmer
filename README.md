@@ -19,9 +19,9 @@ Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLa
 
 #### Genomrechenzentrum-Metadaten (MV §64e) DTOs
 
-| Language/Platform |
-| -------- |
-| [Java](https://github.com/pcvolkmer/mv64e-grz-dto-java) (JDK 11 based, uses `java.util.Date`) |
+| Language/Platform | Test example JSON |
+| -------- | -------- |
+| [Java](https://github.com/pcvolkmer/mv64e-grz-dto-java) (JDK 11 based, uses `java.util.Date`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-java/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-java/actions/workflows/test.yml) |
 
 ### Alle Projekte
 
