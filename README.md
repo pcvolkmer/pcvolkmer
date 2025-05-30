@@ -2,7 +2,7 @@
 
 Bibliotheken für das Modellvorhaben §64e SGB V
 
-#### DNPM:DIP (MV §64e) MTB DTOs
+#### DNPM:DIP (MV §64e) MTB DTOs basierend auf dem [DNPM Datenmodell Version 2.1](https://ibmi-ut.atlassian.net/wiki/spaces/DAM/pages/698777783)
 
 Die DTO Projekte sind hierhin umgezogen: [DNPM:DIP](https://github.com/dnpm-dip).
 
