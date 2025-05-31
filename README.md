@@ -17,7 +17,7 @@ Getestet wurde jeweils für die [hier beschriebenen synthetischen JSON Daten](ht
 
 Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLab/dnpm-dip-api-gateway)
 
-#### Genomrechenzentrum-Metadaten (MV §64e) DTOs
+#### Genomrechenzentrum-Metadaten (MV §64e) DTOs basierend auf dem [GRZ Metadaten-Schema 1.1.7](https://github.com/BfArM-MVH/MVGenomseq_GRZ/blob/main/GRZ/grz-schema.json)
 
 | Language/Platform | Test example JSON |
 | -------- | -------- |
