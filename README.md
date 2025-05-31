@@ -22,6 +22,7 @@ Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLa
 | Language/Platform | Test example JSON |
 | -------- | -------- |
 | [Java](https://github.com/pcvolkmer/mv64e-grz-dto-java) (JDK 11 based, uses `java.util.Date`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-java/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-java/actions/workflows/test.yml) |
+| [.NET](https://github.com/pcvolkmer/mv64e-grz-dto-dotnet) (.NET Standard 2.0, uses `NewtonSoft.Json`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-dotnet/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-dotnet/actions/workflows/test.yml) |
 
 ### Alle Projekte
 
