@@ -1,4 +1,4 @@
-### Modellvorhaben §64e SGB V
+### Modellvorhaben Genomsequenzierung gem. §64e SGB V
 
 Bibliotheken für das Modellvorhaben §64e SGB V
 
