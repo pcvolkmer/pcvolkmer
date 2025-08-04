@@ -25,7 +25,7 @@ Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLa
 | [Java](https://github.com/pcvolkmer/mv64e-rd-dto-java) (JDK 11 based, uses `java.util.Date`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-rd-dto-java/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-rd-dto-java/actions/workflows/test.yml) |
 | [.NET](https://github.com/pcvolkmer/mv64e-rd-dto-dotnet) (.NET Standard 2.0, uses `NewtonSoft.Json`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-rd-dto-dotnet/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-rd-dto-dotnet/actions/workflows/test.yml) |
 
-#### Genomrechenzentrum-Metadaten (MV §64e) DTOs basierend auf dem [GRZ Metadaten-Schema 1.1.7](https://github.com/BfArM-MVH/MVGenomseq_GRZ/blob/main/GRZ/grz-schema.json)
+#### Genomrechenzentrum-Metadaten (MV §64e) DTOs basierend auf dem [GRZ Metadaten-Schema 1.2.2](https://github.com/BfArM-MVH/MVGenomseq_GRZ/blob/main/GRZ/grz-schema.json)
 
 | Language/Platform | Test example JSON |
 | -------- | -------- |
