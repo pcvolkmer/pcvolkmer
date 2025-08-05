@@ -32,6 +32,10 @@ Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLa
 | [Java](https://github.com/pcvolkmer/mv64e-grz-dto-java) (JDK 11 based, uses `java.util.Date`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-java/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-java/actions/workflows/test.yml) |
 | [.NET](https://github.com/pcvolkmer/mv64e-grz-dto-dotnet) (.NET Standard 2.0, uses `NewtonSoft.Json`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-dotnet/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-dotnet/actions/workflows/test.yml) |
 
+##### Bash-Script für GRZ-Metadaten Teil "Files"
+
+Siehe: https://gist.github.com/pcvolkmer/35e397ab7a2ca28a203842bd49b14aaf
+
 ### Alle Projekte
 
 Eine Übersicht über alle Projekte gibt es hier: https://github.com/pcvolkmer?tab=repositories
