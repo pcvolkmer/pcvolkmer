@@ -36,7 +36,7 @@ Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLa
 
 ##### GRZ-Metadaten Teil "Files" mit "FASTQ-Tools"
 
-Siehe: https://github.com/pcvolkmer/fastq-tools?tab=readme-ov-file#grz-metadata
+Siehe: [https://github.com/pcvolkmer/fastq-tools?tab=readme-ov-file#grz-metadata](https://github.com/pcvolkmer/fastq-tools?tab=readme-ov-file#grz-metadata)
 
 ##### Bash-Script für GRZ-Metadaten Teil "Files"
 
