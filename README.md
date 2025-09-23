@@ -34,6 +34,10 @@ Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLa
 | [Go](https://github.com/pcvolkmer/mv64e-grz-dto-go) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-go/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-go/actions/workflows/test.yml) |
 | [Rust](https://github.com/pcvolkmer/mv64e-grz-dto-rs) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-rs/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-rs/actions/workflows/test.yml) |
 
+##### GRZ-Metadaten Teil "Files" mit "FASTQ-Tools"
+
+Siehe: https://github.com/pcvolkmer/fastq-tools?tab=readme-ov-file#grz-metadata
+
 ##### Bash-Script für GRZ-Metadaten Teil "Files"
 
 Siehe: https://gist.github.com/pcvolkmer/35e397ab7a2ca28a203842bd49b14aaf
