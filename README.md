@@ -2,18 +2,16 @@
 
 Bibliotheken für das Modellvorhaben §64e SGB V
 
-#### DNPM:DIP (MV §64e) MTB DTOs basierend auf dem [DNPM Datenmodell Version 2.1](https://ibmi-ut.atlassian.net/wiki/spaces/DAM/pages/698777783)
-
-Die MTB DTO Projekte sind hierhin umgezogen: [DNPM:DIP](https://github.com/dnpm-dip).
+#### DNPM:DIP (MV §64e) Implementierung der Datenmodelle basierend auf dem [DNPM Datenmodell Version 2.1](https://ibmi-ut.atlassian.net/wiki/spaces/DAM/pages/698777783)
 
 | Language/Platform | Test example JSON |
 | -------- | -------- |
-| [Java](https://github.com/dnpm-dip/mv64e-mtb-dto-java) (JDK 11 based, uses `java.util.Date` and [Project Lombok](https://projectlombok.org/)) | [![Run Tests](https://github.com/dnpm-dip/mv64e-mtb-dto-java/actions/workflows/test.yml/badge.svg)](https://github.com/dnpm-dip/mv64e-mtb-dto-java/actions/workflows/test.yml) |
-| [.NET](https://github.com/dnpm-dip/mv64e-mtb-dto-dotnet) (.NET Standard 2.0, uses `NewtonSoft.Json`) | [![Run Tests](https://github.com/dnpm-dip/mv64e-mtb-dto-dotnet/actions/workflows/test.yml/badge.svg)](https://github.com/dnpm-dip/mv64e-mtb-dto-dotnet/actions/workflows/test.yml) |
-| [Go](https://github.com/dnpm-dip/mv64e-mtb-dto-go) | [![Run Tests](https://github.com/dnpm-dip/mv64e-mtb-dto-go/actions/workflows/test.yml/badge.svg)](https://github.com/dnpm-dip/mv64e-mtb-dto-go/actions/workflows/test.yml) |
-| [Rust](https://github.com/dnpm-dip/mv64e-mtb-dto-rs) | [![Run Tests](https://github.com/dnpm-dip/mv64e-mtb-dto-rs/actions/workflows/test.yml/badge.svg)](https://github.com/dnpm-dip/mv64e-mtb-dto-rs/actions/workflows/test.yml) |
+| [Java](https://github.com/pcvolkmer/mv64e-mtb-model) (JDK 11 based, uses `java.util.Date`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml) |
+| [Rust](https://github.com/dnpm-dip/mv64e-mtb-dto-rs) | [![Run Tests](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml) |
 
 Getestet wurde jeweils für die [hier beschriebenen synthetischen JSON Daten](https://github.com/KohlbacherLab/dnpm-dip-api-gateway/blob/main/app/controllers/README.md).
+
+Die älteren MTB DTO Projekte sind hierhin umgezogen: [DNPM:DIP](https://github.com/dnpm-dip).
 
 Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLab/dnpm-dip-api-gateway)
 
