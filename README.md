@@ -32,7 +32,7 @@ Siehe auch: [KohlbacherLab/DNPM:DIP-API-Gateway](https://github.com/KohlbacherLa
 | [Go](https://github.com/pcvolkmer/mv64e-grz-dto-go) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-go/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-go/actions/workflows/test.yml) |
 | [Rust](https://github.com/pcvolkmer/mv64e-grz-dto-rs) | [![Run Tests](https://github.com/pcvolkmer/mv64e-grz-dto-rs/actions/workflows/test.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-grz-dto-rs/actions/workflows/test.yml) |
 
-##### Editor/Validator für DNPM-Datenmodell 2.1, Datenmodell SE:dip und GRZ Metadaten
+#### Editor/Validator für DNPM-Datenmodell 2.1, Datenmodell SE:dip und GRZ Metadaten
 
 Ein JSON-Editor mit eingebautem Validator ist hier zu finden: https://github.com/pcvolkmer/dnpm-validator
 
