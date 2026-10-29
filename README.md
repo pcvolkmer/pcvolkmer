@@ -9,6 +9,9 @@ Bibliotheken für das Modellvorhaben §64e SGB V
 | [Java](https://github.com/pcvolkmer/mv64e-mtb-model) (JDK 11 based, uses `java.util.Date`) | [![Run Tests](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml) |
 | [Rust](https://github.com/dnpm-dip/mv64e-mtb-dto-rs) | [![Run Tests](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/ci.yml) |
 
+Kompatibilität mit aktuellsten Beispieldaten von [https://dnpm-dip.net](https://dnpm-dip.net/api/mtb/fake/data/patient-record) - (Datenmodell ändert sich fortlaufend):
+[![Check Compatibility](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/compatibility.yml/badge.svg)](https://github.com/pcvolkmer/mv64e-mtb-model/actions/workflows/compatibility.yml)
+
 Getestet wurde jeweils für die [hier beschriebenen synthetischen JSON Daten](https://github.com/KohlbacherLab/dnpm-dip-api-gateway/blob/main/app/controllers/README.md).
 
 Die älteren MTB DTO Projekte sind hierhin umgezogen: [DNPM:DIP](https://github.com/dnpm-dip).
